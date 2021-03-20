@@ -42,7 +42,6 @@ Development career.
     <img src="https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
----
 
 ## Skills
 

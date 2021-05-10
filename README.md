@@ -1,19 +1,13 @@
 # Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
 ### I'm Youssef! 👨‍💻 </br>
-
 Learning is what I do and it’s what I’m good at 🤓.
 
-During life journey, It was a challenge to find my passion, So
-what I did is self-learning a lot of skills in many different fields.
-I started with **Graphic Applications** such as **Photoshop** and **Illustrator**.
+It was a challenge to find my passion during my life journey, So what I did is self-learning a lot of skills in many different fields. I started with Graphic Applications such as Photoshop and Illustrator.
 
-Then I started learning **Web Design (UI / UX)**, And finally, I was
-curious about how a Website actually can be made! 🤔
+Then I started learning Web Design (UI / UX), And finally, I was curious about how a Website actually can be made! 🤔
 
-And this is how I finally found that **Web Development** is the skill
-that fulfilled my **passion** 💪 and let me seeking to build a web
-Development career.
+And this is how I finally found that Web Development is the skill that fulfilled my passion 💪 and let me seeking to build a web Development career.
 
 > 🏘️ Available for Remote Freelance projects.
 

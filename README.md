@@ -7,7 +7,7 @@ It was a challenge to find my passion during my life journey, So what I did is s
 
 Then I started learning Web Design (UI / UX), And finally, I was curious about how a Website actually can be made! 🤔
 
-And this is how I finally found that Web Development is the skill that fulfilled my passion 💪 and let me seeking to build a web Development career.
+And this is how I finally found that Web Development is the skill that fulfilled my passion 💪 and led me to seek to build a web Development career.
 
 > 🏘️ Available for Remote Freelance projects.
 
